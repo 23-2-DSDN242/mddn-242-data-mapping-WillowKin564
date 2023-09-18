@@ -3,7 +3,7 @@ let maskImg=null;
 let renderCounter=0;
 
 // change these three lines as appropiate
-let sourceFile = "input_4.jpg";
+let sourceFile = "input_1.jpg";
 let maskFile   = "mask_4.png";
 let outputFile = "output_4.png";
 
@@ -20,7 +20,7 @@ function setup () {
   noStroke();
   background(255, 0, 0);
   sourceImg.loadPixels();
-  maskImg.loadPixels();
+  maskImg.loadPixels(); 
 }
 
 function draw () {
