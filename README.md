@@ -8,4 +8,4 @@ My project started as  a love letter to Star Trek Online and used it's various s
 
 During the end of week 2 I decided to try and use other images that weren't STO related and instead stuff like cars and trees to see if it detects those as well. I also decided to make use of a Star Trek the Origional Series effect of disintergration combined with blur. This will be a rainbow or neon outline with an internal blur similar to the 1960s/70s effect. 
 
-Now in week 3-4 I am organising the coding portion of the project and my final wee sections and experiements.
+Now in week 3-4 I am organising the coding portion of the project and my final wee sections and experiements. My plan is to apply my own filter, where the lines are around the edges while the insides are blured. 
